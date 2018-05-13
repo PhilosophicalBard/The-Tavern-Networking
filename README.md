@@ -1,2 +1,3 @@
 # The-Tavern-Networking
-website building for the tavern networking
+Work in progress towards building the business. 
+As I study, will be updating the code.
