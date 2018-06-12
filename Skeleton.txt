@@ -1,0 +1,43 @@
+The name of the site `title`
+|| (head)
+| click on the site - `entry` (java) 
+|| (body)
+| a memory data base to know if someone has entered before
+	| takes you right to the the login at the tavern or starts up `entry` upon loading
+		| once you register, the database (PHP) will remember your computer
+	| has to have an optional "skip scene" button straight to log in
+|log in page for the tavern (entry doorway into the site) 
+	| registration option 
+	| access restricted to non members 
+		| site will be limited to "free people"
+			| (registration is not a membership/ does not cost anything) 
+| menu
+	| Forums
+		| community driven
+		| place to host resources
+		| place to advertise yourself
+		
+	| Chatroom
+		| Messenger overlay 
+			| Public rooms
+			| Private rooms
+		
+			| Business orientation 
+				| Mass messaging
+				| Group messaging 
+				| Group calling (meetings)
+			
+			| Private orientation
+				| cell phones
+					| text messaging 
+					| voice features
+				| letters that have timed arrivals
+				
+	| Blog
+		| vlog posts
+		| written text
+		| about meet
+			| social media 
+			
+	
+				
